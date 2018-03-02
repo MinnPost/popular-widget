@@ -3,10 +3,10 @@ Contributors: Hax
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YM9GXCFBND89E
 Tags: box,widget,popular,most commented,most viewed,tags,tabs,dynamic,cloud,post by category,by date,popular posts,range,comments,recent comments,avatar,images,current posts,recent
 Requires at least: 3.0.0
-Tested up to: 4.2.4
-Stable tag: 1.6.9
+Tested up to: 4.6.0
+Stable tag: 4.3.0
 
-Display the most commented or most viewed posts in a tabbed widget, filter the post by date range or by category. It also includes a tags tab. 
+Display the most commented or most viewed posts in a tabbed widget, filter the post by date range or by category. It also includes a tags tab.
 
 == Description ==
 This is a simple popular posts WordPress widget for your blog. Add and day interval to specify when the posts are considered popular, the default is 365 (one year) you can also filter your post by category. Enjoy!! and please support the plugin. :@)
@@ -27,7 +27,7 @@ This is a simple popular posts WordPress widget for your blog. Add and day inter
 * Calculate visits or page views.
 * Custom field options for view counts.
 
-== Installation == 
+== Installation ==
 * Download the latest version of the plugin to your computer.
 * With an FTP program, access your site's server.
 * Upload the plugin folder to the /wp-content/plugins folder.
@@ -38,7 +38,7 @@ This is a simple popular posts WordPress widget for your blog. Add and day inter
 
 = Tested on =
 
-* MySQL 5.1.26 
+* MySQL 5.1.26
 * Apache 2.2.11
 * Linux
 * Explorer 8
@@ -51,6 +51,10 @@ This is a simple popular posts WordPress widget for your blog. Add and day inter
 * http://xparkmedia.com/support/plugin/popular-widget/
 
 == Changelog ==
+
+= 1.7.0 =
+* Added: WordPress 4.3 support.
+* Added: Translate.wordpress.org support.
 
 = 1.6.9 =
 * Added: WordPress 4.2.4 support.
@@ -96,96 +100,8 @@ This is a simple popular posts WordPress widget for your blog. Add and day inter
 * Added: Additional filters.
 * Improved: Admin UI.
 
-= 1.5.9 =
-*  Fixed: performance issue
-
-= 1.5.8 =
-* Tested on wp 3.5.1 
-* Posible fix for issue showing tags tab
-* Fixed: pageviews for some content types not saving
-
-= 1.5.7 =
-* Fixed: code clean up.
-* Fixed: content duplicates.
-* Fixed: content loop issue.
-
-= 1.5.6 =
-* Security update.
-* Fixed: tranlation.
-* Improved: interface.
-* Changed: directory for translations files.
-* Added: Support for wp 3.5.0.
-* Added: Dutch and Polish translations.
-
-= 1.5.5 =
-* Fixed: html validation.
-* Fixed: IE image issue.
-* Improved: links seo.
-
-= 1.5.4 =
-* Added: filter by author.
-* Added: custom tab labels.
-* Added: Additional hooks.
-* Fixed: Recent posts count filter not working.
-
-= 1.5.3 =
-* Fixed: Random image issue.
-* Fixed: Thumbnails not displaying.
-
-= 1.5.2 =
-* Code clean up
-* Performace improvements
-* Fixed: category filter not working.
-
-= 1.5.1 =
-* Fixed: Not calculating pageviews.
-
-= 1.5.0 =
-* Code clean up
-* Styles changes
-* Fixed: Typos
-* Fixed: Translation issues
-* Added: Hooks
-* Added: Sort tabs feature
-
-= 1.1.5 =
-* Fixed: php notice.
-* Fixed: title location.
-* Added: Recent posts.
-* Added: shortcode filter.
-
-= 1.1.0 =
-* Fixed: js error.
-* Fixed: php error.
-* Added: option description.
-* Added: Title option.
-* Added: 3.3 support.
-* Improved cache.
-
-= 1.0.1 =
-* Fixed: time range.
-
-= 1.0.0 =
-* HTML clean up
-* CSS clean up
-* Added: Recent comments option.
-* Added: Thumbnail/Avatar option.
-* Added: Option to calculate pageviews or visits.
-* Fixed: Ability to add multiple widget on one page.
-* Note: update might require to deactivate recent comments.
-
-= 0.5.3 =
-* Fixed: header error with some themes.
-
-= 0.5.2 =
-* Added: Support for custom post types
-
-= 0.5.1 =
-* Fixed: Most Viewed sort
-* Fixed: Most Commented display
-
-= 0.5.0 =
-* Beta release
+= more =
+https://xparkmedia.com/plugins/popular-widget/changelog/
 
 == Upgrade Notice ==
 1.0.0 Update might require to deactivate recent comments.
